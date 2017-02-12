@@ -9,3 +9,5 @@ And another to see how modifying in VS Code works.  At least I think I just made
 Now I get it, you have to save the changes before you can commit them.
 
 This is an attempt to see what happens without a commit.  Does it show up in "Changes"
+
+Testing fix of bugs.
