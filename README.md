@@ -5,3 +5,5 @@ I've been involved in a project using GitHub before, but didn't totally understa
 Adding another change to test system.
 
 And another to see how modifying in VS Code works.  At least I think I just made a "change".
+
+Now I get it, you have to save the changes before you can commit them.
