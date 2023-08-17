@@ -11,3 +11,5 @@ Now I get it, you have to save the changes before you can commit them.
 This is an attempt to see what happens without a commit.  Does it show up in "Changes"
 
 Testing fix of bugs.
+
+Hmmmm....
