@@ -13,3 +13,5 @@ This is an attempt to see what happens without a commit.  Does it show up in "Ch
 Testing fix of bugs.
 
 Hmmmm....
+
+Trying the "Making and Committing changes" 
